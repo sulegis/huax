@@ -1,6 +1,6 @@
 #!/bin/bash
 session=""
-target_time="07:41:00"
+target_time="23:15:00"
 cookie_other="cookie_dept=7; cookie_SessionType=; cookie_selectdate=2017-06-15; card_list_url=http%3A//wx.motherchildren.com/index.php%3Fg%3DWap%26m%3DWxView%26d%3DregisterAndAppoint%26a%3Dindex%23selectCard.html%3Fschedulid%3D49401%26regSchedulidInfo%3D%257B%2522date%2522%253A%25222017-06-15%2522%252C%2522docName%2522%253A%2522%25u674E%25u94A6%25u4F2F%2522%252C%2522deptname%2522%253A%2522%25u513F%25u79D1%25u95E8%25u8BCA%2522%252C%2522sumfee%2522%253A%252253%2522%257D; tgw_l7_route=2cdd9f28c76f60c83147696ff4b9fce6"
 
 gmt_time=""
